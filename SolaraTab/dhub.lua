@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/dreiyer/dreiyer/blob/main/dhub.lua", true))()
